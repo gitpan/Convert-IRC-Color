@@ -1,0 +1,45 @@
+Convert-IRC-Color
+
+This module is a set of funtions that allows one to
+take a traditional IRC color number and return either
+its hex code or name.  Note that this module assumes
+the default color choices for IRC programs.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc Convert::IRC::Color
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Convert-IRC-Color
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/Convert-IRC-Color
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/Convert-IRC-Color
+
+    Search CPAN
+        http://search.cpan.org/dist/Convert-IRC-Color/
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008 Wolfman2000
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
